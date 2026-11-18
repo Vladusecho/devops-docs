@@ -13,5 +13,3 @@ Actions.
 4. GitHub Pages публикует артефакт сборки.
 
 Адрес будущего сайта: `https://Vladusecho.github.io/devops-docs/`.
-
-[Тестовая ссылка](missing-page.md)
